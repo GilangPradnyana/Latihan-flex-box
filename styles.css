@@ -10,8 +10,54 @@
   font-weight: bold;
   text-decoration: none;
   font-size: 2em;
+  color: azure;
 }
 
 .header:hover {
   background-color: cadetblue;
+}
+
+/* Judul */
+.judul {
+  display: flex;
+  justify-content: center;
+  background-color: coral;
+  margin: 5px;
+  padding: 10px;
+}
+
+.judul p {
+  font-weight: bold;
+  font-size: 18px;
+  color: aliceblue;
+}
+
+/* Content*/
+.konten {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* Credit */
+.Credit {
+  font-family:Verdana;
+  font-size: 15px;
+}
+
+.Written {
+  color: crimson;
+}
+.Tanggal {
+  color: brown;
+}
+
+/* Article */
+.konten {
+  max-width:500px ;
+  font-family: Tahoma;
+  text-align: justify;
+}
+span{
+  color: blue;
 }
