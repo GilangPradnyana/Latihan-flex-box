@@ -76,6 +76,7 @@ span{
   background-color: antiquewhite;
   margin-left: 10px;
   padding: 10px;
+  text-align: justify;
 }
 .box-preview:hover {
   background-color: rgb(230, 235, 240);
